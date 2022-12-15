@@ -9,7 +9,7 @@ from datetime import datetime
 from urllib.parse import quote
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
 from random import randint
-r1=requests.get("https://github.com/AyeshaPari/File1/blob/main/ApprovemXD.txt").text
+r1=requests.get("https://github.com/DaniMalik1/Dani1/blob/main/Approval.txt").text
 import requests, re, os, time
 import requests, os, re, bs4,platform, sys, json, time, random, datetime, subprocess, threading, itertools,base64,uuid,zlib
 from concurrent.futures import ThreadPoolExecutor as ADIabba
